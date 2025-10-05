@@ -25,7 +25,7 @@ I'm passionate about technology, coding, and building impactful projects in the 
 
 ## 🌟 Featured Projects
 
-- [BTC Tool](https://github.com/btcattacker/Blockchain_Tool) – BTC Transaction Divert Tool.
+- [BTC Tool (https://github.com/btcattacker/Blockchain-Tool) – BTC Transaction Divert Tool.
 - [BTC Tool V2.0](#) – Coming soon!
 - [ETH Tool](#) – Coming soon!
 
